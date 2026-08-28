@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f7f8;
+    background-color: #f3f4cb;
     color: #333;
 }
 
@@ -14,8 +14,8 @@ body {
 /* ENCABEZADO */
 
 header {
-    background-color: #168aad;
-    color: white;
+    background-color: #8c8307;
+    color: rgb(210, 208, 198);
     text-align: center;
     padding: 30px;
 }
@@ -37,7 +37,7 @@ main {
 /* TARJETA DEL FORMULARIO */
 
 .contenedor {
-    background-color: white;
+    background-color: rgb(221, 225, 13);
     width: 100%;
     max-width: 650px;
     padding: 30px;
@@ -48,7 +48,7 @@ main {
 .contenedor h2 {
     text-align: center;
     margin-bottom: 25px;
-    color: #168aad;
+    color: #2d1cc8;
 }
 
 
@@ -117,7 +117,9 @@ button:hover {
 footer {
     text-align: center;
     padding: 20px;
-    color: #666;
+    color: #b6d00e;
+    font-size: 50px;
+    font-weight: bold;
 }
 
 
